@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leyebesci.github.io/sitemap
+Sitemap: https://leyebesci.github.io/app/sitemap
+Sitemap: https://leyebesci.github.io/assets/sitemap
+Sitemap: https://leyebesci.github.io/css/sitemap
+Sitemap: https://leyebesci.github.io/includes/sitemap
+Sitemap: https://leyebesci.github.io/item/sitemap
+Sitemap: https://leyebesci.github.io/src/sitemap
